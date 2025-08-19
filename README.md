@@ -44,10 +44,8 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 ## 💡 Sobre Mim
 
 - 🎓 Atualmente estudo no **SENAI**
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
+- 💻 Estou aprendendo **[HTML5][CSS3][JavaScript][React][Bootstrap][Node.js][Express][Python][Django][MySQL][Flutter][React Native][Kotlin][Java]**
 - 🎯 Meu objetivo é **ser desenvolvedor Mobile**
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
-- ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
 
 ---
 
