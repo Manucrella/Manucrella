@@ -1,6 +1,7 @@
-# 👋 Olá! Eu sou Manuella
 
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [escreva seu interesse aqui: ex. Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.].
+0# 👋 Olá! Eu sou Manuella
+
+Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Mobile.
 
 ---
 
@@ -42,9 +43,9 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no **[Nome da sua escola]**
+- 🎓 Atualmente estudo no **SENAI**
 - 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
+- 🎯 Meu objetivo é **ser desenvolvedor Mobile**
 - 📚 Gosto de aprender sobre **[áreas de interesse]**
 - ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
 
