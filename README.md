@@ -1,5 +1,5 @@
 
-0# 👋 Olá! Eu sou Manuella
+0# 👋 Olá! Eu sou Manuella - CUIDADO!!! SEGURANÇA FRACA DE PERFIL (hackado pelo curso de ciber)
 
 Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Mobile.
 
